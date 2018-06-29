@@ -1,8 +1,8 @@
 {
-  "name": "3facerecognitionConnected",
+  "name": "3facerecognitionApplication",
   "version": "0.1.0",
   "private": true,
-  "homepage":  "https://dcastro0803.github.io//3FaceRecognitionApplication/",
+  "homepage":  "https://dcastro0803.github.io/3FaceRecognitionApplication/",
   "dependencies": {
     "clarifai": "^2.8.0",
     "gh-pages": "^1.2.0",
